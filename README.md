@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**arishrehmankhan/arishrehmankhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/arishrehmankhan/">
+  <img align="left" alt="Arish's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.hackerrank.com/arishrehmankhan">
+  <img align="left" alt="Arish's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am Arish Rehman Khan
+- An Open Source enthusiast.
+- MCA student at Jawaharlal Nehru University
+- Currently working on some of my cool side projects based on Android Development.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
