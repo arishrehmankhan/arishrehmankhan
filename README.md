@@ -6,7 +6,7 @@
 <a href="https://www.hackerrank.com/arishrehmankhan">
   <img align="left" alt="Arish's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-
+</br>
 ### I am Arish Rehman Khan
 - An Open Source enthusiast.
 - MCA student at Jawaharlal Nehru University
